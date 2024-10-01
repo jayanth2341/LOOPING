@@ -1,5 +1,5 @@
 """
-2)Write a program to determine whether 'n' is a factorial number or not. Factorial of a number is the product of all positive numbers from 1 to 'n'.
+Write a program to determine whether 'n' is a factorial number or not. Factorial of a number is the product of all positive numbers from 1 to 'n'.
 Input format:
 The input containing an integer 'n' which denotes the given number.
 Output format:
